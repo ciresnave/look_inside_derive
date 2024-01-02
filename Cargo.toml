@@ -1,11 +1,11 @@
 [package]
     authors       = ["Eric Evans <CireSnave@gmail.com>"]
-    description   = "Easily deconstruct and look inside your types."
+    description   = "Macros for look_inside"
     documentation = "https://docs.rs/look_inside"
     edition       = "2021"
     homepage      = "https://docs.rs/look_inside"
     license       = "MIT"
-    name          = "look_inside"
+    name          = "look_inside_derive"
     readme        = "README.md"
     repository    = "https://github.com/CireSnave/look_inside"
     version       = "0.1.0"
