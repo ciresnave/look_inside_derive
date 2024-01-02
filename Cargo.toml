@@ -6,7 +6,7 @@
     homepage      = "https://docs.rs/look_inside"
     license       = "MIT"
     name          = "look_inside_derive"
-    readme        = "README.md"
+    readme        = "https://github.com/CireSnave/look_inside/README.md"
     repository    = "https://github.com/CireSnave/look_inside"
     version       = "0.1.0"
 
